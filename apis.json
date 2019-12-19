@@ -1,0 +1,48 @@
+{
+    "name": "Gimbal",
+    "description": "Gimbal helps brands and agencies maximize their marketing relevance through an integrated data and execution platform for 1-to-1 targeting and attribution.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10178-gimbal.jpg",
+    "tags": [
+        "api provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/gimbal\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Gimbal",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10178-gimbal.jpg",
+            "humanURL": "http:\/\/www.gimbal.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/gimbal-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/gimbal-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/gimbal-inc-"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/gimbal"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.gimbal.com\/"
+        }
+    ]
+}
